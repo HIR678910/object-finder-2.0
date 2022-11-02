@@ -1,0 +1,31 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+canvas{
+    border-radius: 20px;
+    border:5px solid rgb(190, 159, 255);
+    box-shadow:5px 5px 5px rgb(190, 159, 255) ;
+    margin-top: 50px;
+}
+
+#heading{
+    color: azure;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#input{
+    background-color: rgb(182, 231, 255);
+    border-radius: 20px;
+    width: 250px;
+    height: 33px;
+}
+
+#start{
+    width: 180px;
+    height: 30px;
+    border-radius: 15px;
+    background-color: rgb(182, 250, 255);
+}
+
